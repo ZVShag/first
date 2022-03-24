@@ -6,7 +6,8 @@ int main()
 	setlocale(LC_ALL, "russian");
 	
 	int a = 10;
-	cout << a;
+	int b = 5;
+	cout << a+b;
 
 }
 
